@@ -1,0 +1,7 @@
+url: https://www.flickr.com
+username:
+password:
+info_api_url: 'https://api.flickr.com/services/rest/?method=flickr.photos.getInfo'
+exif_api_url: 'https://api.flickr.com/services/rest/?method=flickr.photos.getExif'
+browser: firefox
+api_key:
